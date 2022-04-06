@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Joanol @elodin19
-- 🌱 I’m currently studying at OpenBootcamp and the language/framework I decided to focus on is Java/Spring, but I also studied other technologies such as JavaScript and React
+- 🌱 I’m currently studying at OpenBootcamp and the language/framework I decided to focus on is Java/Spring, but I also studied other technologies such as C#, JavaScript and React
 - 💞️ I’m currently looking for a job with an entry level position as software developer
 - 📫 Suggestions, bug reports or advices are welcome. You can contact me on joanoldaniel@gmail.com
 
