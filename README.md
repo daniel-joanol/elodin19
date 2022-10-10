@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Joanol @elodin19
 - 🌱 I’m currently studying at OpenBootcamp and the language/framework I decided to focus on is Java/Spring, but I also studied other technologies such as C#, JavaScript and React
-- 💞️ I’m Back End Developer at Cleverpy
+- 💞️ I’m a Back End Developer at Cleverpy
 - 📫 Suggestions, bug reports or advices are welcome. You can contact me on joanoldaniel@gmail.com
 
 <!---
